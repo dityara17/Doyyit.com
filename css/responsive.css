@@ -10,10 +10,10 @@
 
 @media only screen and (max-width: 1600px) {
     img#mainYY {
-        max-width: 500px;
+        width: 150px !important;
         position: absolute;
-        left: 25%;
-        top: 205px;
+        left: 53%;
+        top: 355px;
     }
 
     .faq-page-section .outer-container {
@@ -29,7 +29,7 @@
 @media only screen and (max-width: 1300px) {
 
 	img#mainYY {
-		max-width: 450px;
+		width: 150px !important;
 		position: absolute;
 		left: 20%;
 		top: 215px;
@@ -42,25 +42,22 @@
 }
 @media only screen and (max-width: 1250px) {
 	img#mainYY {
-		max-width: 450px;
-		left: 17%;
-		top: 215px;
+        left: 53%;
+        top: 655px;
 	}
 }
 @media only screen and (max-width: 1200px) {
 	img#mainYY {
-		max-width: 450px;
-		left: 15%;
-		top: 215px;
+        left: 35%;
+        top: 355px;
 	}
 }
 
 @media only screen and (max-width: 1140px) {
 
 	img#mainYY {
-		max-width: 400px;
-		left: 33%;
-		top: 345px;
+		left: 55%;
+		top: 465px;
 	}
     .main-header .info-box {
         display: inline-block;
